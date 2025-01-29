@@ -16,5 +16,35 @@
 // var secont_String=scr_String;
 // console.log(scr_String)
 
-const document=document
-console.log(document)
+// 3. Write a js program to concatenate two strings.
+
+
+// var str1="Hello, "
+// var str2="World"
+// var result=str1.concat(str2);
+// console.log(result)
+
+// 4. Write a js program to compare two strings.
+
+
+// var str1="Hello";
+// var str2="World";
+// if(str1===str2){
+//     console.log("This String Is Same",)
+// }
+// else{
+//     console.log("This String Is Different",)
+// }
+
+// 5. Write a js program to convert lowercase string to uppercase.
+// var str="hello";
+// var uppercasestr=str.toUpperCase();
+// console.log(uppercasestr)
+
+// 6. Write a js program to convert uppercase string to lowercase.
+
+// var str="HELLO"
+// var lowercasestr=str.toLowerCase();
+// console.log(lowercasestr)
+
+// 6. Write a js program to convert uppercase string to lowercase.
